@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CadastroUsuarios</string>
+    <string name="empty_not_saved">Usuário inválido</string>
+</resources>
